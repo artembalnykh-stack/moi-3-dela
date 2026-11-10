@@ -78,6 +78,11 @@ npm run lint     # oxlint
   внутри интерфейса. По LAN-адресу (`http://192.168…`) нет secure context,
   поэтому системные уведомления недоступны.
 
+## Внешний вид
+
+<img width="706" height="446" alt="image" src="https://github.com/user-attachments/assets/f0bb60e3-c354-4651-a91b-333e52ab4777" />
+<img width="418" height="470" alt="image" src="https://github.com/user-attachments/assets/6bbc4014-0d36-48f8-99fb-983a9adbcd46" />
+
 ## Ограничения MVP
 
 - Нет облачной синхронизации, аккаунтов и совместной работы.
